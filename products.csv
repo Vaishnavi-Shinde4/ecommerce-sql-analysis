@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,unit_cost
+101,Laptop,Electronics,55000,42000
+102,Wireless Mouse,Electronics,1200,650
+103,Keyboard,Electronics,2500,1400
+104,Headphones,Electronics,3500,2100
+105,Office Chair,Furniture,8500,5600
+106,Desk,Furniture,12000,8200
+107,Water Bottle,Lifestyle,700,250
+108,Backpack,Lifestyle,2200,900
+109,Running Shoes,Fashion,4000,2300
+110,T-shirt,Fashion,900,350
+111,Smartphone,Electronics,30000,24000
+112,Monitor,Electronics,16000,11500
